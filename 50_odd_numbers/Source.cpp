@@ -2,6 +2,8 @@
 #include <format>
 using namespace std;
 
+//IN THIS EXAMPLE IT WAS USED DECREMENTING AND INCREMENTING OF POINTERS TO OUTPUT THE ARRAY
+
 int main() {
 
 	const int max_size{ 100 };
